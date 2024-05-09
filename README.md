@@ -1,0 +1,1 @@
+This is a sign-up form I designed for an Odin Project assignment.
